@@ -3,7 +3,7 @@ published: false
 title: "So you want to be a developer?"
 cover_image: "https://raw.githubusercontent.com/gcaducci/dev.to/master/blog-posts/so-you-want-to-be-a-developer/assets/cover-image.png"
 description: "An introduction on the series Beginners Guide to Coding"
-tags: first, roadmap, developer, beginners, webdev
+tags: roadmap, developer, beginners, webdev
 series: [Beginners Guide To Coding]
 canonical_url:
 ---
