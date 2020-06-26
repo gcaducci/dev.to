@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: "So you want to be a developer?"
 cover_image: "https://raw.githubusercontent.com/gcaducci/dev.to/master/blog-posts/so-you-want-to-be-a-developer/assets/cover-image.png"
 description: "An introduction on the series Beginners Guide to Coding"
@@ -10,7 +10,7 @@ canonical_url:
 
 # Who am I and what my goal is?
 
-I have been a software developer for 10+ years, I started my career as a web developer in late 2000, and currently, I am working as an IT Team Leader at EBANX for almost a year.
+I have been a software developer for 10+ years, I started my career as a web developer in late 2000, and currently, I am working for almost a year as an IT Team Leader at EBANX.
 
 Writing articles was something that I wanted to do for a long time but always had some excuse to not do it. A couple of days ago, in the middle of the COVID-19 lockdown, one of my cousins asked me to teach him how to code. So this is the beginning of my path as a writer, it will help me to grow as a developer and in meanwhile, I believe, that this can also help others seeking to start coding.
 
