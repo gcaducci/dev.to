@@ -1,7 +1,7 @@
 ---
 published: false
 title: "So you want to be a software developer?"
-cover_image: "https://raw.githubusercontent.com/gcambauva/dev.to/master/blog-posts/so-you-want-to-be-a-developer/assets/cover-image.png"
+cover_image: "https://raw.githubusercontent.com/gcaducci/dev.to/master/blog-posts/so-you-want-to-be-a-developer/assets/cover-image.png"
 description: "Description of the article"
 tags: tag1, tag2, tag3
 series:
